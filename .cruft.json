@@ -1,0 +1,20 @@
+{
+  "template": "https://github.com/paolo-fx/mlops-project-template.git",
+  "commit": "7ba23c6538b220015e31965b298f8f970d7663f6",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "Salaries Prediction Cruft",
+      "project_slug": "salaries_prediction_cruft",
+      "package_name": "salaries_prediction_cruft",
+      "author_name": "Paolo",
+      "author_email": "paolo.faux@gmail.com",
+      "python_version": "3.11",
+      "version": "0.1.0",
+      "description": "Reusable MLOps project",
+      "_template": "https://github.com/paolo-fx/mlops-project-template.git",
+      "_commit": "7ba23c6538b220015e31965b298f8f970d7663f6"
+    }
+  },
+  "directory": null
+}
