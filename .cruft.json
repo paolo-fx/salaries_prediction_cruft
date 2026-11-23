@@ -1,6 +1,6 @@
 {
   "template": "https://github.com/paolo-fx/mlops-project-template.git",
-  "commit": "7ba23c6538b220015e31965b298f8f970d7663f6",
+  "commit": "5ff43506245e00d17a9eedd71dea0a52eeda6849",
   "checkout": null,
   "context": {
     "cookiecutter": {
@@ -13,7 +13,7 @@
       "version": "0.1.0",
       "description": "Reusable MLOps project",
       "_template": "https://github.com/paolo-fx/mlops-project-template.git",
-      "_commit": "7ba23c6538b220015e31965b298f8f970d7663f6"
+      "_commit": "5ff43506245e00d17a9eedd71dea0a52eeda6849"
     }
   },
   "directory": null
